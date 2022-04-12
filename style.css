@@ -44,12 +44,12 @@ img {
 }
 
 #texto > h2 {
-    font-size: 70px;
+    font-size: 50px;
 }
 
 #texto > h3 {
     padding: 20px 0 50px 0;
-    font-size: 38px;
+    font-size: 27px;
 }
 
 main > #texto > h2 > span {
