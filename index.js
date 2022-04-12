@@ -25,7 +25,7 @@ btn.addEventListener('click', () => {
         img.src = './imagens/naruto5.png'
         nome.innerText = 'Naruto Rikudou'
         trans.innerText = 'Modo Rikudou Sennin'
-        btn.innerText = 'Voltar ao Inicio'
+        btn.innerText = 'Voltar ao Início'
         btn.value = 5
     } else if (btn.value == 5) {
         img.src = './imagens/naruto1.png'
