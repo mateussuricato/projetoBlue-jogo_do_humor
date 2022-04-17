@@ -5,7 +5,6 @@ let btn = document.querySelector('#mudar')
 
 
 btn.addEventListener('click', () => {
-
     if(btn.value == '1') {
         img.src = './imagens/naruto2.png'
         nome.innerText = 'Naruto Sennin' 
