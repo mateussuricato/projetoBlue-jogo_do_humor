@@ -93,3 +93,7 @@ footer {
 footer > p {
     color: white;
 }
+
+footer > p > a {
+    color: yellow;
+}
