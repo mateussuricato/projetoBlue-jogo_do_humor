@@ -1,4 +1,7 @@
-Jogo das Transformações do Naruto
-Projeto 01 Modulo 02.
+<h1> Jogo das Transformações do Naruto </h1>
 
-Clique no ícone para acessar a página:
+<h2> Módulo 2 - Projeto 1 </h2>
+
+Projeto desenvolvido para fins de estudos
+
+<a href="https://mateussuricato.github.io/projetoBlue-jogo_do_humor/"> CLIQUE AQUI PARA ACESSAR A PÁGINA </a>
