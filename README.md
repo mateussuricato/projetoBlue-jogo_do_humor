@@ -4,4 +4,4 @@
 
 Projeto desenvolvido para fins de estudos
 
-<a href="https://mateussuricato.github.io/projetoBlue-jogo_do_humor/"> CLIQUE AQUI PARA ACESSAR A PÁGINA </a>
+<a href="https://mateussuricato.github.io/projetoBlue-jogo_do_humor/" target="_blank"> CLIQUE AQUI PARA ACESSAR A PÁGINA </a>
